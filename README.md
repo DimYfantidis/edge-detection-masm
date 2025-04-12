@@ -1,6 +1,7 @@
 # Edge Detection in C and x86 Assembly
 
-Implementation of the Sobel detection algorithm using the Microsoft Assembler (MASM).
+Implementation of the Sobel detection algorithm using the Microsoft Assembler (MASM). 
+This project will only compile and run on x86 active solution platform.
 
 
 <p align="middle">
