@@ -5,8 +5,8 @@ Implementation of the Sobel detection algorithm using the Microsoft Assembler (M
 
 <p align="middle">
     <img src="./edge-detection-masm/input.bmp" width="200">
-    <img src="./edge-detection-masm/samples/Robin_Output_Sobel_40.bmp" alt="Sobel Detection of Robin Bird Image with Threshold=40" width="200">
-    <img src="./edge-detection-masm/samples/Robin_Output_Sobel_90.bmp" alt="Sobel Detection of Robin Bird Image with Threshold=90" width="200">
+    <img src="./edge-detection-masm/Robin_Output_Sobel_40.bmp" alt="Sobel Detection of Robin Bird Image with Threshold=40" width="200">
+    <img src="./edge-detection-masm/Robin_Output_Sobel_90.bmp" alt="Sobel Detection of Robin Bird Image with Threshold=90" width="200">
     <br>
     <b> Original Image (left) | Sobel detection 40% (middle) | Sobel detection 90% (right) </b> 
     <br>
