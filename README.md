@@ -3,6 +3,16 @@
 Implementation of the Sobel detection algorithm using the Microsoft Assembler (MASM).
 
 
+<p align="middle">
+    <img src="./edge-detection-masm/input.bmp" width="200">
+    <img src="./samples/Robin_Output_Sobel_40.bmp" alt="Sobel Detection of Robin Bird Image with Threshold=40" width="200">
+    <img src="./samples/Robin_Output_Sobel_90.bmp" alt="Sobel Detection of Robin Bird Image with Threshold=90" width="200">
+    <br>
+    <b> Original Image (left) | Sobel detection 40% (middle) | Sobel detection 90% (right) </b> 
+    <br>
+    <i> Photo by  <a href="https://pixabay.com/el/users/terbe_rezso-863263/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=9419575">Rezso Terbe</a> from <a href="https://pixabay.com/el//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=9419575">Pixabay</a>.</i>
+</p>
+
 ## Requirements
 
 The following installation details (listed under "optional") must be included:

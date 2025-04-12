@@ -25,7 +25,7 @@
 #include <iostream>
 
 // Input threshold for Sobel Operator.
-#define THRESHOLD	90
+#define THRESHOLD	40
 
 // BMP file header.
 typedef struct tagBitmapFileHeader {
